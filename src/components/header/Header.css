@@ -1,0 +1,25 @@
+.app-header{
+display: flex;
+align-items: center;
+padding: 12px 20px;
+justify-content: space-between;
+
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.app-header-left a{
+margin-right:10px;
+align-items: center;
+}
+.app-header-right{
+  display: flex;
+  align-items: center;
+  margin-right: 13px;
+}
+.app-header-right a{
+margin-right: 12px;
+}
